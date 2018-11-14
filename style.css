@@ -1,0 +1,21 @@
+h1 {
+    font-size: 30px;
+    color: orangered;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    color: orange;
+}
+
+body {
+    background-color: 87cefa;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    color: black;
+}
